@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "817067518210",
+    "project_id": "subash-app-cdb21",
+    "storage_bucket": "subash-app-cdb21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817067518210:android:43008c825058591ce03a1b",
+        "android_client_info": {
+          "package_name": "com.example.subhash_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx5S1xHFfOQVeE0dVfJ8FKtdC7adL-AO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817067518210:android:1e201da16db81cd2e03a1b",
+        "android_client_info": {
+          "package_name": "com.subashapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx5S1xHFfOQVeE0dVfJ8FKtdC7adL-AO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817067518210:android:a8dc568df7f84ed5e03a1b",
+        "android_client_info": {
+          "package_name": "com.vendorsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx5S1xHFfOQVeE0dVfJ8FKtdC7adL-AO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
